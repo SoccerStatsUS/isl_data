@@ -25,7 +25,7 @@ Competition: International Soccer League
 
 
 Season: 1960 
-Stage: 1
+Group: I
 
 5/25/1960; Kilmarnock; 3-1; Bayern Munich; Polo Grounds; Dennis Howell, Tom Budano, Werner Rothschild; 10444
 Jack McInally (Billy Muir) 76, Tom Bryceland (Jack McInally) 80, Andy Kerr (ua) 89; Frank Beattie (og) 22
@@ -119,7 +119,7 @@ Burnley FC: Adam Blacklaw, Tom Cummings, Alex Elder, Jim Adamson, Bryan Miller, 
 Nice: Georges Lamia, Alphonse Martinez, Juan Auzoberry, Boragno, Cesar Gonzales, Francois Milazzo, Jacques Faivre, Hector De Bourgoing, Omar Keita Barrou, Victor Nurenberg, Jacques Foix
 Source: http://query.nytimes.com/mem/archive/pdf?res=F50611FC3D581A7A93C2AB178DD85F448685F9
 
-Stage: 2
+Group: II
 
 ; Bangu; v; Sampdoria
 
@@ -215,7 +215,6 @@ Notes: Both teams returned home.
 
 *Competition: International Soccer League Championship
 Round: Final
-Stage: 
 
 8/6/1960; Bangu; 2-0; Kilmarnock; Polo Grounds; James McLean, Harry Nowick, Thomas Callahan; 25440
 Valter Santos, Valter Santos;
@@ -226,7 +225,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F50B13FD3A5A1A7A93C5A91783D
 
 Competition: International Soccer League
 Season: 1961
-Stage: 1
+Group: I
 
 * Everton - 0
 * Bangu - 0
@@ -376,7 +375,7 @@ Dynamo Bucharest: Utu; Popa, I. Nunweiler; Dumitru, Alexandru, L. Nunweiler; Sel
 Besiktas: Urkmez; Noyan, Hancer; Aki, Koldas, Soydan; Ozatac, Birol, Peker, Ozacar
 Source: http://query.nytimes.com/mem/archive/pdf?res=F60614FA3A5B147A93CBA8178DD85F458685F9
 
-Stage: 2
+Group: II
 
 * Dukla Prague - 0
 * Montreal Concordia - 1
@@ -533,7 +532,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9C0CE1DC1E3FE13ABC4950DFB16
 *Competition: International Soccer League Championship
 *Season: 1961 Championship
 Round: Final
-Stage:
+
 
 
 8/2/1961; Dukla Prague; 7-2; Everton; Polo Grounds; 12890
@@ -549,7 +548,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9407E5DD113DE733A25754C0A96
 Competition: International Soccer League
 
 Season: 1962 
-Stage: 1
+Group: I
 
 * Reutlingen - 0
 * America - 2
@@ -636,7 +635,7 @@ America Rio: Ari de Oliveira, J. dos Santos, Dialma Dias, W. dos Santos, Leonida
 Dundee: Liney, Hamilton, Cox, Seith, Ure, Wishart, Penman, Cousin, Waddell, Gilzean, Robertson
 Source: http://query.nytimes.com/mem/archive/pdf?res=9507E1DC1031EF3BBC4F52DFB0668389679EDE
 
-Stage: 2
+Group: II
 
 * Belenenses - 2
 * Wiener - 2
@@ -727,7 +726,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9505EED8153DE63BBC4850DFB16
 *Competition: International Soccer League Championship
 *Season: 1962 Championship
 Round: Final
-Stage: 
+
 
 8/1/1962; America Rio; 2-1; Belenenses; Downing Stadium; James McLean, Vincent D'Albis, Howard Levine; 5713
 Vasconcellos, Coelho; Fernandes
@@ -753,7 +752,8 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9806E3DD1E31EF3BBC4B52DFBE6
 
 Competition: International Soccer League
 Season: 1963 
-Stage: 1
+
+Group: I
 
 * West Ham - 1
 * Mantova - 1
@@ -858,7 +858,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9504EFDF1139E43BBC4F51DFB06
 6/27/1963; Mantova; 2-0; Preussen Munster; Downing Stadium; 7716
 Source: http://query.nytimes.com/mem/archive/pdf?res=9504EFDF1139E43BBC4F51DFB0668388679EDE
 
-Stage: 2
+Group: II
 
 * Gornik Zabrze - 0
 * Dinamo Zagreb - 1
@@ -999,7 +999,6 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9E00EED8153AE13BBC4151DFB16
 *Competition: International Soccer League Championship
 *Season: 1963 Championship
 Round: Final
-Stage:
 
 7/31/1963; Gornik; 1-1; West Ham; Downing Stadium; Ray Morgan, Clemente, Nina; 9463
 Pol; Byrne
@@ -1034,7 +1033,8 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9505E3DC1431E73BBC4A52DFBE6
 
 Competition: International Soccer League
 Season: 1964
-Stage: 1
+
+Group: I
 
 * Werder Bremen - 3
 * Hearts - 1
@@ -1132,7 +1132,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9D06E5D71130E033A25756C1A96
 * Jim Cruickshank
 * Lists all scorers here.
 
-Stage: 2
+Group: II
 
 * Zaglebie - 2
 * Schwechater - 1
@@ -1205,7 +1205,6 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=FA0A12FF3A5B1B728DDDAE0A94D
 *Season: 1964 Championship
 * Championship.
 Round: Final
-Stage:
 
 7/29/1964; Zaglebie Sosnowiec; np; Werder Bremen; Downing Stadium
 Source: http://query.nytimes.com/mem/archive/pdf?res=F30A17FD395E147A93C3AA178CD85F408685F9
@@ -1241,7 +1240,7 @@ Season: 1965
 *http://query.nytimes.com/mem/archive/pdf?res=F00914FC3D5F147A93CBA8178ED85F418685F9
 * John J. Carey of Nottingham Forest says American football has not improved in 15 years.
 
-Stage: 1
+Group: I
 
 * New York Americans - 0
 * Portugesa - 0
@@ -1355,7 +1354,7 @@ Portuguesa (Brazil): Venerando; Deoliveira, Villela; Vieira, Pereira, W. Dasilva
 West Ham: Standman; Bond, Burkett; Peters, Brown, Moore; Brabrook, Boyce, Byrne
 Source: http://query.nytimes.com/mem/archive/pdf?res=F20B12FB3C5F147A93CBAB178DD85F418685F9
 
-Stage: 2
+Group: II
 
 * Polonia - 0
 * Ferencvaros - 0

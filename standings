@@ -1,9 +1,10 @@
 Competition: International Soccer League
 
 
-Season: 1960 I
+Season: 1960
 Key: team; games; wins; ties; losses; goals_for; goals_against; points
 
+Group: I
 
 Kilmarnock                 ; 5 ;  4 ;  1 ;  0 ; 11 ;  3 ;  1
 Burnley                    ; 5 ;  3 ;  1 ;  1 ; 16 ;  7 ;  1
@@ -12,10 +13,10 @@ New York Americans         ; 5 ;  1 ;  2 ;  2 ;  8 ; 13 ;  2
 Bayern Munich              ; 5 ;  1 ;  1 ;  3 ;  7 ; 10 ;  1
 Glenavon                   ; 5 ;  1 ;  0 ;  4 ;  8 ; 13 ;  2
 
-Season: 1960 II
+Group: II
 
 Bangu                  ; 5 ;  4 ;  1 ;  0 ; 14 ;  3 ;  9
-Red Star Belgrade      ; 5 ;  3 ;  1 ;  3 ; 13 ;  5 ;  7
+Red Star Belgrade      ; 5 ;  3 ;  1 ;  1 ; 13 ;  5 ;  7
 Sampdoria (Italy)      ; 5 ;  2 ;  1 ;  2 ; 11 ; 13 ;  5
 Sporting Club Lisbon   ; 4 ;  2 ;  0 ;  2 ;  7 ; 12 ;  4
 Norrkoping             ; 5 ;  1 ;  1 ;  3 ; 10 ; 15 ;  3
@@ -23,8 +24,9 @@ Rapid Vienna           ; 4 ;  0 ;  0 ;  4 ;  7 ; 14 ;  0
 
 
 
-Season: 1961 I
+Season: 1961
 
+Group: I
 
 Everton                   ; 7 ;  6 ;  1 ;  0 ; 22 ;  5 ; 12
 Bangu                     ; 7 ;  4 ;  2 ;  1 ; 18 ;  8 ;  9
@@ -35,7 +37,7 @@ Montreal Concordia        ; 7 ;  2 ;  4 ;  1 ;  7 ; 11 ;  5
 Dinamo Bucharest          ; 7 ;  1 ;  3 ;  3 ;  8 ; 14 ;  5
 Besiktas                  ; 7 ;  1 ;  4 ;  2 ;  8 ; 19 ;  4
 
-Season: 1961 II
+Group: II
 
 Dukla Prague               ; 7 ;  6 ;  0 ;  1 ; 36 ;  6 ; 13
 Montreal Concordia         ; 7 ;  3 ;  0 ;  4 ; 17 ; 10 ; 10
@@ -48,8 +50,9 @@ Hapoel Petah Tikva         ; 7 ;  0 ;  5 ;  2 ;  6 ; 31 ;  2
 
 
 
-Season: 1962 I
+Season: 1962
 
+Group: I
 
 America RJ           ; 5 ;  3 ;  2 ;  0 ; 11 ;  8 ;  8
 Reutlingen           ; 5 ;  3 ;  1 ;  1 ;  6 ;  1 ;  7
@@ -59,7 +62,7 @@ Dundee FC            ; 5 ;  1 ;  2 ;  2 ;  9 ; 11 ;  4
 Hadjuk Split         ; 5 ;  1 ;  3 ;  1 ;  8 ; 10 ;  3
 
 
-Season: 1962 II
+Group: II
 
 Belenenses           ; 5 ;  4 ;  1 ;  0 ; 14 ;  6 ;  9
 Wiener AC            ; 5 ;  2 ;  2 ;  1 ; 11 ; 17 ;  6
@@ -69,8 +72,9 @@ Elfsborg             ; 5 ;  0 ;  3 ;  2 ; 12 ; 16 ;  3
 Real Oviedo          ; 5 ;  0 ;  3 ;  2 ;  7 ; 10 ;  3
 
 
-Season: 1963 I
+Season: 1963
 
+Group: I
 
 West Ham United      ; 6 ;  3 ;  2 ;  1 ; 14 ; 10 ;  8
 Mantova              ; 6 ;  3 ;  1 ;  2 ; 15 ; 10 ;  7
@@ -80,8 +84,7 @@ Preussen Munster     ; 6 ;  3 ;  0 ;  3 ; 13 ; 16 ;  6
 Deportivo Oro        ; 6 ;  1 ;  2 ;  3 ; 13 ; 18 ;  4
 Valenciennes         ; 6 ;  2 ;  0 ;  4 ;  8 ; 13 ;  4
 
-
-Season: 1963 II
+Group: II
 
 Gornik Zabrze        ; 6 ;  4 ;  1 ;  1 ; 17 ;  6 ;  9
 Dinamo Zagreb        ; 6 ;  3 ;  1 ;  2 ; 14 ; 11 ;  7
@@ -92,8 +95,9 @@ Real Valladolid      ; 6 ;  2 ;  1 ;  3 ;  9 ; 15 ;  5
 Helsingborg          ; 6 ;  1 ;  1 ;  4 ; 10 ; 14 ;  3
 
 
-Season: 1964 I
+Season: 1964
 
+Group: I
 
 SV Werder Bremen         ; 6 ;  4 ;  2 ;  0 ; 18 ; 10 ; 10
 Heart of Midlothian      ; 6 ;  4 ;  1 ;  1 ;  7 ;  5 ;  9
@@ -101,7 +105,7 @@ A. C. Lanerossi-Vicenza  ; 6 ;  2 ;  2 ;  2 ; 12 ; 11 ;  6
 Blackburn Rovers         ; 6 ;  1 ;  1 ;  4 ;  7 ; 11 ;  3
 E.C. Bahia               ; 6 ;  0 ;  2 ;  4 ;  5 ; 12 ;  2
 
-Season: 1964 II
+Group: II
 
 Zaglebie Sosnowiec       ; 6 ;  4 ;  2 ;  0 ; 16 ;  7 ; 10
 Schwechater              ; 6 ;  2 ;  3 ;  1 ; 11 ; 10 ;  7
@@ -111,9 +115,9 @@ AEK Athens               ; 6 ;  0 ;  1 ;  5 ;  3 ; 12 ;  1
 
 
 
-Season: 1965 I
+Season: 1965
 
-
+Group: I
 
 New York Americans         ; 6 ;  4 ;  1 ;  1 ; 11 ;  8 ;  9
 Portuguesa (Sao Paulo)     ; 6 ;  4 ;  0 ;  2 ; 18 ; 11 ;  8
@@ -121,7 +125,7 @@ Varese                     ; 6 ;  2 ;  2 ;  2 ; 11 ;  9 ;  6
 TSV Munich 1860            ; 6 ;  2 ;  0 ;  4 ;  8 ; 13 ;  4
 West Ham United            ; 6 ;  1 ;  1 ;  4 ;  9 ; 16 ;  3
 
-Season: 1965 II
+Group: II
 
 Polonia Bytom             ; 6 ;  3 ;  3 ;  0 ; 13 ;  4 ;  9
 Ferencvaros (Hungary)     ; 6 ;  3 ;  2 ;  1 ; 10 ;  6 ;  8
